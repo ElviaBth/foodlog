@@ -3,7 +3,7 @@
 ![desktop_image](https://github.com/ElviaBth/foodlog/blob/main/app/assets/images/desktop_view.png)
 
 
-I´m doing a beginner food log project to start learning the Ruby on Rails framework.
+I´m following a tutorial with a beginner food log project to start learning the Ruby on Rails framework.
 
 Things you may want to cover:
 
